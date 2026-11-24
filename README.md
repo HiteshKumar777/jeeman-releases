@@ -5,7 +5,7 @@ Public **installer binaries only** for Jeeman in-app updates.
 - Desktop: `Jeeman-POS-Setup-<version>.exe`
 - Mobile: `Jeeman-<version>.apk` (or `Jeeman.apk`)
 
-**No application source code** belongs in this repository. Source stays in private repos (`Jeeman`, `Jeeman-mobile`).
+**No application source code** belongs in this repository.
 
 ## How updates work
 
