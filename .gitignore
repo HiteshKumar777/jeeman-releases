@@ -1,0 +1,5 @@
+*.exe
+*.apk
+*.dmg
+*.AppImage
+.DS_Store
